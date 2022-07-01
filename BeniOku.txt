@@ -1,0 +1,3 @@
+Oyun tanımı
+
+Oyun runner oyundur.Scooterlardan kaç ve puanları topla. Scooterlara vurursan tekrardan başla. Yeşil küpü alırsan Scooter min seviyeye düşer. Kırmızı küpü alırsan Scooter max seviyeye cıkar
